@@ -19,7 +19,7 @@ A beautiful and functional tmux session manager for Neovim using Telescope.
 
 ```lua
 {
-  "quiet-ghost/mux-manager.nvim",
+  "quiet-ghost/mux-manager",
   dependencies = { "nvim-telescope/telescope.nvim" },
   config = function()
     require("mux-manager").setup({
