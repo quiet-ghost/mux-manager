@@ -1,20 +1,2 @@
-# Compiled Go binaries
-bin/
-*.exe
-*.dll
-*.so
-*.dylib
-
-# Go build artifacts
-go.sum
-
-# Neovim
-.nvim/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
+# Worktree directories
+/.worktrees/
